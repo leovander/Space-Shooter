@@ -2,7 +2,6 @@
 using System.Collections;
 
 public class RandomRotator : MonoBehaviour {
-
 	//Number of rotations
 	public float tumble;
 
